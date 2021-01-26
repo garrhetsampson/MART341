@@ -4,7 +4,7 @@ The world wide web, or web for short, are the pages you see when you're at a dev
 
 Briefly describe how the internet works.
 
-The internet is the connected file storage and infostructure that makes up the websites tools we use today.
+The internet is the connected file storage and infostructure that makes up the websites and tools we use today.
 
 What is a directory, and what is its relationship to files?
 
@@ -12,7 +12,7 @@ A directory is how we house and organize files.
 
 How will VCS benefit you?
 
-VCS is a great way to mark your progress in a project.
+VCS is a great way to mark your progress in a project. They create a way to "revert back" to previous versions of the project as well as helps us colaborate.
 
 Take a screenshot anytime while working on your homework.
 
