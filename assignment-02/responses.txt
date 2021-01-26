@@ -1,13 +1,25 @@
 How is the world wide web different than the internet?
 
+The world wide web, or web for short, are the pages you see when you're at a device and you're online. But the internet is the network of connected computers that the web works on.
+
 Briefly describe how the internet works.
+
+The internet is the connected file storage and infostructure that makes up the websites tools we use today.
 
 What is a directory, and what is its relationship to files?
 
+A directory is how we house and organize files.
+
 How will VCS benefit you?
+
+VCS is a great way to mark your progress in a project.
 
 Take a screenshot anytime while working on your homework.
 
+Done!
+
 What is your favorite kind of art?
+
+Street art and old school vintage lettering.
 
 Rename this screenshot using proper naming conventions, and upload it to your assignment-02 directory.
