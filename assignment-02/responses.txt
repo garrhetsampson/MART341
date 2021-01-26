@@ -1,0 +1,13 @@
+How is the world wide web different than the internet?
+
+Briefly describe how the internet works.
+
+What is a directory, and what is its relationship to files?
+
+How will VCS benefit you?
+
+Take a screenshot anytime while working on your homework.
+
+What is your favorite kind of art?
+
+Rename this screenshot using proper naming conventions, and upload it to your assignment-02 directory.
