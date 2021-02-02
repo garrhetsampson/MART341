@@ -1,0 +1,21 @@
+1. Provide three websites that you enjoy visiting?
+http://bravepeople.co
+https://rocketrepublic.com
+https://www.awwwards.com
+
+2. What is the relationship between an IP address and the DNS?
+An IP address is an address assigned to any computer (including servers) to identify it on a given network. A DNS address is a Domain Name Service which is used to convert alphabetic references into a server's IP address generally for hosting services.
+
+3. What is a cookie?
+An HTTP cookie is a small piece of data stored on the user's computer by the web browser while browsing a website.
+
+4. List the three essential parts of a URL.
+Protocol
+Domain
+Paths
+
+5. In your README.md, use Markdown and add the title
+"Assignment 3" with a heading 1. Underneath, add your name as
+a heading 2.
+
+6. Add a list of 3 things you've learned so far.
