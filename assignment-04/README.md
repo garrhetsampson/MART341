@@ -6,4 +6,4 @@ A markup language is a system for annotating a document in a way that is syntact
 
 An embedded image of your screenshot using its relative URL.
 
-(http:/MART341 WebDesign/assignment-04/images/Assignment_4_Screenshot.png)
+https:/assignment-04/images/Assignment_4_Screenshot.png
