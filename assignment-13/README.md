@@ -1,8 +1,11 @@
-What is the difference between a system font, web font, and web-safe font?
-System fonts is designed to be installed on your computer for use with applications such as Microsoft Word or Adobe Photoshop. A webfont is a specially tuned font for use on websites using the CSS @font-face declaration. A web safe font is made for the web and specifically designed to be used in mass for that purpose.
+Who was your imaginary client? How did they describe their site needs?
 
-What is the importance of having fallback fonts or a font stack?
-If the font isn't located will will allow the site to still be usable.
+My imaginary client was an author or book landing page.
 
-Free Response: Please discuss any challenges you had this week and what you did to overcome them.
-I actually finished up my previous job and then also started my new one this week! I was running double shifts all this last week, which was rough, but I'm glad to be hitting summer soon.
+Why is it important to consider a mobile-first design?
+
+Because the majority of web traffic comes from mobile divices.
+
+Free Response: Please discuss your challenges and how you overcame them.
+
+Time management! I'm still just really trying to stay on top of stuff this semester. Thankfully I have a little more together and with the semester coming to an end I wont have quite as much to juggle over summer.
